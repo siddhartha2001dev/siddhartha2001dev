@@ -2,9 +2,9 @@
 
 <!-- Animated Header Banner -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddhartha%20Banerjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20PERN%20%7C%20UI%2FUX&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddhartha%20Banerjee&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 
-<!-- Typing SVG -->
+<!-- Typing Animation -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&random=false\&width=700\&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%26+PERN+Developer+%E2%9A%A1;React.js+%26+TypeScript+Enthusiast+%F0%9F%92%BB;Backend+%26+API+Developer+%F0%9F%94%A5;UI%2FUX+Designer+%F0%9F%8E%A8;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -33,6 +33,22 @@ primary_stack:
   - PERN
   - TypeScript
 
+frontend:
+  - React.js
+  - JavaScript
+  - TypeScript
+  - Tailwind CSS
+  - Bootstrap
+
+backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+
+databases:
+  - MongoDB
+  - PostgreSQL
+
 currently_learning:
   - Docker
   - Authentication & Authorization
@@ -57,9 +73,9 @@ hobbies:
 ## 🚀 What I Do
 
 * 💻 Build **full-stack web applications** using MERN & PERN
-* ⚛️ Develop modern interfaces with **React.js**
-* 🟦 Build applications using **TypeScript**
-* 🔐 Implement **JWT authentication & authorization**
+* ⚛️ Develop modern and responsive interfaces with **React.js**
+* 🟦 Build scalable applications using **TypeScript**
+* 🔐 Implement **JWT Authentication & Authorization**
 * 🔑 Work with **Google OAuth**
 * 🗄️ Work with **MongoDB & PostgreSQL**
 * 🔌 Design and integrate **RESTful APIs**
@@ -90,7 +106,7 @@ hobbies:
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&perline=7" />
 </p>
 
-### 🔐 Authentication & APIs
+### 🔐 APIs & Authentication
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman&perline=7" />
@@ -102,7 +118,7 @@ hobbies:
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux&perline=7" />
 </p>
 
-### 🎨 Design
+### 🎨 UI/UX & Design
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd&perline=7" />
@@ -111,7 +127,7 @@ hobbies:
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=7" />
 </p>
 
 ---
@@ -196,6 +212,8 @@ Apart from development, I enjoy designing digital experiences.
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=algolia&hide_border=true&layout=compact&langs_count=8" />
@@ -214,11 +232,23 @@ Apart from development, I enjoy designing digital experiences.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 💡 *"Building things, breaking things, and learning how to build them better."*
 
 </div>
+
+<br/>
 
 <!-- Footer Wave -->
 
